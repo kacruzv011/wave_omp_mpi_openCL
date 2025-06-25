@@ -1,0 +1,9 @@
+binary,processes,elapsed_seconds
+yee_blocking_mpi,1,2.5e-05
+yee_blocking_mpi,2,0.001044
+yee_blocking_mpi,4,0.00033
+yee_blocking_mpi,8,0.000514
+yee_nonblock_mpi,1,2.4e-05
+yee_nonblock_mpi,2,0.000939
+yee_nonblock_mpi,4,0.000407
+yee_nonblock_mpi,8,0.000396
